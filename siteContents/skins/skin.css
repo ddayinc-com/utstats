@@ -1,0 +1,86 @@
+/* Default Skin file for NetGames USA's ngStats for Unreal Tournament from Epic Games    */
+/* It is advised that you not edit this file unless you know exactly what your doing     */
+/* For information about making custom skins see the ngStats for UT page at NetGames USA */
+/*                                                                                       */
+/*                        http://www.NetGamesUSA.com/ngStats/UT/                         */
+
+.bck { background-color: #FFFFFF; font-family: "Trebuchet MS", Verdana, sans-serif;}
+A:hover.a {color: #FF4040;}
+.a{  font-size: 10pt; font-weight: bold; color: #100078;}
+.b{  font-size: 12pt; font-weight: bold; color: #FF0000;}
+a:hover.c{  color: #FF4040;}
+.c{  font-size: 10pt; font-weight: bold; color: #100078;}
+a:hover.e{ color: #FF4040; text-decoration: none}
+.e{  font-size: 10pt; font-weight: bold; color: #FFFFFF; text-decoration: none}
+a:hover.f{ color: #FF4040;}
+.f{  font-size: 12pt; font-weight: bold; color: #FFFFFF;}
+a:hover.h{  color: #E00000}
+.h{  font-size: 10pt; font-weight: normal; color: #000000}
+a:hover.i{  color: #EE0000}
+.i{  font-size: 10pt; font-weight: bold; color: #000000}
+a:hover.j{  color: #EE0000}
+.j{  font-size: 12pt; font-weight: bold; color: #000000}
+.l{  font-size: 12pt; font-weight: bold; color: #FDD932; text-decoration: none}
+a:hover.m{  color: #FF4040; text-decoration: none}
+.m{  font-size: 14pt; font-weight: bold; color: #FFFFFF; text-decoration: none}
+a:hover.p{  color: #FF4040}
+.p{  font-size: 8pt; font-weight: normal; color: #808080}
+a.hover.q{ color: #FF4040; text-decoration: none}
+.q{ font-size: 10pt; font-weight: bold; color: #FFFFFF; text-decoration: none}
+a:hover.r{ color: #FF4040; background-color: #100078; text-align: center}
+.r{ font-size: 11pt; font-weight: bold; color: #FFFFFF; background-color: #100078; text-align: center}
+a:hover.s{ color: #FF4040; background-color: #100078; text-align: center}
+.s{ font-size: 16pt; font-weight: bold; color: #FFFFFF; background-color: #100078; text-align: center}
+a:hover.t{ color: #FF4040; text-align: center}
+.t{ font-size: 11pt; font-weight: bold; color: #0080FF; text-align: center}
+.v{ font-size: 12pt; font-weight: bold; color: #FDD932; background-color: #100078; text-align: center}
+.vv{font-size: 14pt; font-weight: bold; color: #FDD932; background-color: #100078; text-align: center;}
+a:hover.w{ color: #EE0000; text-align: center}
+.w{ font-size: 10pt; color: #000000; background-color: #CCCCCC; text-align: center}
+a:hover.y{ color: #FF4040; text-align: center}
+.y{ font-size: 10pt; font-weight: bold; color: #FFFFFF; text-align: center}
+a:hover.z{ color: #FF4040; text-align: center}
+.z{ font-size: 11pt; font-weight: bold; color: #FDD932; text-align: center}
+.aa{ font-size: 18pt; font-weight: bold; color: #FFFFFF; background-color: #100078; text-align: center}
+.ab{ font-size: 18pt; font-weight: bold; color: #FDD932; background-color: #100078; text-align: center}
+a:hover.ac{ color: #EE0000}
+.ac{ font-size: 18pt; font-weight: bold;}
+.ad{ font-size: 10pt; font-weight: bold; color: #000000; background-color: #999999; text-align: center}
+a:hover.ae{  color: #FF4040; text-decoration: none}
+.ae{  font-size: 8pt; font-weight: normal; color: #808080; text-decoration: none}
+.ak{ font-size: 10pt; font-weight: bold; color: #FF0000; background-color: #100078; text-align: center}
+a:hover.al{ color: #FF4040; text-align: center; text-decoration: none}
+.al{ font-size: 10pt; font-weight: bold; color: #0080FF; text-align: center; text-decoration: none}
+a:hover.am{ color: #FF4040; text-align: center; text-decoration: none}
+.am{ font-size: 10pt; font-weight: bold; color: #FDD932;text-align: center; text-decoration: none}
+.t1{background-color: #EE0000}
+.t2{background-color: #0000EE}
+.t3{background-color: #008000}
+.t4{background-color: #FDD932}
+
+.aa,
+.vv,
+.s,
+TD.w,
+TD.y { padding: 1px 3px 3px 3px;}
+
+.t,
+.y,
+.z {background-color: #333333;}
+
+A.j,
+A.w,
+A.ac { color: #0033FF;}
+
+A.y {
+	color: #0080FF;
+} /* end selector */
+
+P B A.a {text-decoration: none; color: #FFFFFF;}
+
+/* span that says "Click here to display a plot of all players" */
+SPAN.i {display: block; margin-bottom: 15px;}
+
+TD.am {
+	background-color: #333333;
+} /* end selector */
